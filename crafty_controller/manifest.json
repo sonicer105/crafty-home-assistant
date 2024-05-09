@@ -1,0 +1,9 @@
+{
+  "domain": "crafty_controller",
+  "name": "Crafty Controller",
+  "version": "1.0.0",
+  "documentation": "https://sailextech.me/",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": []
+}
