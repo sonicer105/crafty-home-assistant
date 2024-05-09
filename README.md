@@ -2,8 +2,6 @@
 
 This is a custom integration for [Home Assistant](https://www.home-assistant.io/) that allows you to monitor Minecraft servers managed by [Crafty Controller](https://craftycontrol.com/). It provides sensors for tracking general server status, CPU usage, memory usage, and other metrics.
 
-It's worth noting that Python is not a language I have a lot of experience with. This can probably be written a lot better and a lot cleaner. You are welcome to try and improve it.
-
 This was last verified working against Home Assistant 2024.5.2 and Crafty Controller 4.3.2
 
 ## Features
@@ -90,11 +88,11 @@ These sensors can be used in Home Assistant automations, dashboards, and scripts
 
 ## Contributions
 
-Contributions are welcome! Feel free to open issues or submit pull requests to improve the integration.
+It's worth noting that Python is not a language I have a lot of experience with. This can probably be written a lot better and cleaner. Contributions are welcome! Feel free to open issues or submit pull requests to improve the integration.
 
 ## Acknowledgements
 
-This project was built with the assistance of ChatGPT for code suggestions and documentation.
+This project was built with assistance from various tools, including AI-based suggestions. All code was carefully reviewed and customized to meet the project's specific needs.
 
 ## License
 
